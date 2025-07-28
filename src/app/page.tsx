@@ -310,7 +310,7 @@ useEffect(() => {
                   </svg>
                 ),
                 title: "ENVÍO RÁPIDO",
-                description: "Recibe tu pedido en 24-48 horas con envío express gratuito."
+                description: "Recibí tu pedido en 24-48 horas con envío express gratuito."
               },
               {
                 icon: (
@@ -356,7 +356,7 @@ useEffect(() => {
                 </h3>
               </div>
               <p className="text-gray-500 font-light">
-                Tu tienda confiable de productos Apple. Calidad y servicio desde 2010.
+                Tu tienda confiable de productos Apple e insumos tecnológicos.
               </p>
               <div className="mt-6 flex space-x-4">
                 {['twitter', 'facebook', 'instagram'].map((social) => (
@@ -380,7 +380,7 @@ useEffect(() => {
               },
               {
                 title: "CONTACTO",
-                items: ['Calle Apple 123, Madrid', 'info@lamanzanita.com', '+34 912 345 678', 'Horario: 10:00 - 20:00']
+                items: ['Avenida Ramirez 123, Paraná', 'info@lamanzanita.com', '+343 62 345 678', 'Horario: 10:00 - 20:00']
               }
             ].map((column, colIndex) => (
               <div key={colIndex}>
